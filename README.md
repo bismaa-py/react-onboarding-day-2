@@ -1,4 +1,4 @@
-# React Onboarding — Day 1 & Day 2
+# React Onboarding — Day 2
 | Teknologi | Versi | Fungsi |
 |---|---|---|
 | React | 19.2.7 | Library utama untuk membangun UI |
